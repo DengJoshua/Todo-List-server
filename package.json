@@ -1,0 +1,26 @@
+{
+  "name": "cls",
+  "version": "1.0.0",
+  "description": "mongo todo list",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "cors": "^2.8.5",
+    "express-handlebars": "^4.0.4",
+    "express": "^4.17.1",
+    "joi": "^14.3.1",
+    "moment": "^2.27.0",
+    "rsuite": "^4.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "master"
+  },
+  "author": "deng joshua",
+  "license": "ISC"
+}

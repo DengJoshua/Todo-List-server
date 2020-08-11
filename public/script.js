@@ -1,0 +1,1 @@
+document.querySelector('.mybtn').addEventListener('click', () => document.querySelector('.hide-menu').classList.toggle('show-menu'))
